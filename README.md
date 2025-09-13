@@ -415,7 +415,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with [LangGraph](https://langchain-ai.github.io/langgraph/) for reliable agent workflows
 - Powered by [Anthropic Claude](https://www.anthropic.com/) for intelligent reasoning
 - Uses [tree-sitter](https://tree-sitter.github.io/) for robust code parsing
-- Inspired by advances in AI-powered software development
+- See our [deepwiki](https://deepwiki.com/langtalks/swe-agent/1-overview)
 
 ## 📞 Support & Community
 
